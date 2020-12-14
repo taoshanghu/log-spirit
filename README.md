@@ -5,9 +5,9 @@ log-spirit 是一个不错的k8s环境中应用日志集中收集方案实现的
     Docker Engine >= 1.10
     
 
- # 下载 log-spirit 项目
+# 下载 log-spirit 项目
 git clone  git@github.com:taoshanghu/log-spirit.git
-# build log-pilot image
+build log-pilot image
 cd log-pilot/ && ./build-image.sh
 # quick start
 cd quickstart/ && ./run

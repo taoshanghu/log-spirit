@@ -94,7 +94,7 @@ func New(tplStr string, baseDir string) (*Pilot, error) {
 		return nil, err
 	}
 
-	logPrefix := []string{"aliyun"}
+	logPrefix := []string{"logspirit"}
 	if os.Getenv(ENV_PILOT_LOG_PREFIX) != "" {
 		envLogPrefix := os.Getenv(ENV_PILOT_LOG_PREFIX)
 		logPrefix = strings.Split(envLogPrefix, ",")

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cd4fead-4528-4d13-8914-0aa554f1fddb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1l5Lzr3k6CdgjgkvPAEXJRI4O23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build test.go (1)">
+    <configuration name="go build test.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="log-pilot-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <package value="github.com/AliyunContainerService/log-pilot" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="log-pilot-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <package value="github.com/AliyunContainerService/log-pilot" />
+      <directory value="$PROJECT_DIR$/" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test in github.com/AliyunContainerService/log-pilot/pilot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="log-pilot-master" />
+      <working_directory value="$PROJECT_DIR$/pilot" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/AliyunContainerService/log-pilot/pilot" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test in github.com/AliyunContainerService/log-pilot/vendor/github.com/AliyunContainerService/log-pilot/pilot" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="log-pilot-master" />
+      <working_directory value="$PROJECT_DIR$/vendor/github.com/AliyunContainerService/log-pilot/pilot" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/AliyunContainerService/log-pilot/vendor/github.com/AliyunContainerService/log-pilot/pilot" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pilot_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="log-pilot-master" />
+      <working_directory value="$PROJECT_DIR$/vendor/github.com/AliyunContainerService/log-pilot/pilot" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/AliyunContainerService/log-pilot" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/vendor/github.com/AliyunContainerService/log-pilot/pilot/pilot_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go (1)" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Test.pilot_test.go (1)" />
+        <item itemvalue="Go Test.Test in github.com/AliyunContainerService/log-pilot/vendor/github.com/AliyunContainerService/log-pilot/pilot" />
+        <item itemvalue="Go Test.Test in github.com/AliyunContainerService/log-pilot/pilot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1383" y="-151" key="#Test_in_github.com/AliyunContainerService/log-pilot/vendor/github.com/AliyunContainerService/log-pilot/pilot" timestamp="1607596519549">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1383" y="-151" key="#Test_in_github.com/AliyunContainerService/log-pilot/vendor/github.com/AliyunContainerService/log-pilot/pilot/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607596519549" />
+    <state x="-1230" y="6" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607049969291">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="6" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607049969291" />
+    <state x="-1245" y="-121" key="#go_build_main.go" timestamp="1606896179587">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1245" y="-121" key="#go_build_main.go/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1606896179587" />
+    <state x="-1245" y="-142" key="#go_build_test.go" timestamp="1607652730538">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1245" y="-142" key="#go_build_test.go/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607652730538" />
+    <state x="-1180" y="-44" key="FileChooserDialogImpl" timestamp="1607652729540">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="-44" key="FileChooserDialogImpl/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607652729540" />
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom" timestamp="1607910119938">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607910119938" />
+    <state width="1877" height="156" key="GridCell.Tab.0.center" timestamp="1607910119937">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607910119937" />
+    <state width="1877" height="156" key="GridCell.Tab.0.left" timestamp="1607910119937">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607910119937" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right" timestamp="1607910119937">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607910119937" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607067897293">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607067897293" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607067897293">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607067897293" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607067897293">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607067897293" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607067897293">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607067897293" />
+    <state x="-1457" y="-157" key="SettingsEditor" timestamp="1607051780172">
+      <screen x="-1920" y="-322" width="1920" height="1040" />
+    </state>
+    <state x="-1457" y="-157" key="SettingsEditor/0.0.1366.728/-1920.-322.1920.1040@-1920.-322.1920.1040" timestamp="1607051780172" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/log_pilot$pilot_test_go.out" NAME="pilot_test.go Coverage Results" MODIFIED="1607319842687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
